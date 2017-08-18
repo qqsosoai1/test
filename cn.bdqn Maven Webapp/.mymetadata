@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="cn.bdqn Maven Webapp"
+  id="myeclipse.1503035359023"
+  context-root="/cn.bdqn"
+  j2ee-spec="1.4"
+  archive="cn.bdqn Maven Webapp.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
